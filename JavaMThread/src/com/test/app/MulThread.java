@@ -10,6 +10,7 @@ public class MulThread implements Runnable {
         System.out.println("Thread names are following:");
         System.out.println(thread1.getName());
         System.out.println(thread2.getName());
+        System.out.println("Getting expected output...!")
     }
 
     @Override
